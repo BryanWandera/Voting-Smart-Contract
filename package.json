@@ -1,0 +1,23 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanWandera/Voting-Smart-Contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanWandera/Voting-Smart-Contract/issues"
+  },
+  "homepage": "https://github.com/BryanWandera/Voting-Smart-Contract#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.3"
+  }
+}
